@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#4A90E2"/>
+  <path d="M50 50H150V150H50V50Z" fill="white" stroke="#2C3E50" stroke-width="5"/>
+  <path d="M65 70H135" stroke="#2C3E50" stroke-width="5" stroke-linecap="round"/>
+  <path d="M65 90H135" stroke="#2C3E50" stroke-width="5" stroke-linecap="round"/>
+  <path d="M65 110H135" stroke="#2C3E50" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="135" cy="150" r="10" fill="#2C3E50"/>
+  <text x="50%" y="185" fill="white" font-size="20" font-family="Arial" text-anchor="middle">MyNotesApp</text>
+</svg>
